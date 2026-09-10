@@ -1,10 +1,6 @@
-# ignore everything
 *
-
-# but let git look inside folders
 !*/
-
-# whitelist what you want
-!main.c
+!lab_main.c
 !*.syscfg
 !.gitignore
+!README.md
