@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# but let git look inside folders
+!*/
+
+# whitelist what you want
+!main.c
+!*.syscfg
+!.gitignore
